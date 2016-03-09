@@ -14,8 +14,9 @@ thead tr { background-color: #f1f1f1;}
 tbody tr { border-bottom: 2px solid #f1f1f1;}
 thead th { font-weight:string; padding: 5px; vertical-align:bottom; text-align:left;}
 tbody th { font-weight:string; padding: 5px; vertical-align:top; text-align:left;}
-a { text-decoration: none; color: #26a69a; white-space:nowrap}
-p, li { font-family: "Times New Roman", Georgia, Serif; margin-bottom: 0.5em; text-align:justify;}
+a { text-decoration: underline; color: white; white-space:nowrap}
+.bottomtext a {color:black}
+p, li { font-family: Roboto, Helvetica, sans; font-size:14pt; margin-bottom: 0.5em; text-align:left}
 label, strong { font-weight: bold; }
 ul {list-style-type: none; padding-left: 20px;}
 a:hover { cursor:pointer; }

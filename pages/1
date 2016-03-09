@@ -5,18 +5,17 @@
 <link href='https://fonts.googleapis.com/css?family=Montserrat' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Orbitron' rel='stylesheet' type='text/css'>
 <link href='https://fonts.googleapis.com/css?family=Roboto' rel='stylesheet' type='text/css'>
-<link rel="shortcut icon" href="http://minneanalytics.org/wp/wp-content/uploads/2014/06/MinneAnalyticsSquare.ico" />
   </head>
   <body>    
     <header class="black padded">      
       <div class="container middle">
         <div class="half">                    
-<a href="http://minneanalytics.org"><img src="MinneAnalyticsSquareInverse.png" style="height:1em"></a> <a style="text-decoration:none" href="http://minneanalytics.org">MinneAnalytics</a>
+MinneAnalytics
         </div>
         <div class="half right">                    
-<a href="https://www.facebook.com/minneanalytics/"><i class="fa fa-facebook"></i></a>
-<a href="https://www.linkedin.com/company/2625621"><i class="fa fa-linkedin"></i></a>
-<a href="https://twitter.com/MinneAnalytics"><i class="fa fa-twitter"></i></a>
+<i class="fa fa-facebook"></i>
+<i class="fa fa-linkedin"></i>
+<i class="fa fa-twitter"></i>
         </div>
       </div>
    </header>
@@ -27,7 +26,7 @@
 
 </div>
 <main>
-<div class="padded" style="padding:20px;margin:50px">
+<div class="padded" style="padding:20px">
 <h3 class="center">The premier conference on big data technology in the upper midwest</h3>
 <h4 class="center">30+ presentations</h4>
 <h4 class="center">600+ data professionals</h4>
@@ -51,33 +50,29 @@ Flank short loin t-bone bresaola strip steak doner leberkas hamburger ground rou
 <div class="half"> <div class="padded"> <h3><i class="fa fa-graduation-cap"></i> Learn</h3>
 <p>We'll have presentations on the latest new big data technologies, including:</p>
 <ul><li>Apache Spark</li><li>NoSQL databases including Cassandra, Couchbase, and MarkLogic</li><li>Infrastructure components including Docker, OpenStack, and AWS</li><li>Machine learning and data mining algorithms</li></ul>
-<p>Our 2016 speaker list is not yet available, but see our <a href="https://docs.google.com/spreadsheets/d/1FuhNb9d81g2EfmZx-RW_3LcYnRvVIxZWA5f2msFL_9k/pubhtml?gid=19&single=true">2015 schedule</a> to learn about the kinds of speakers we'll feature.</p>
+<p>Our 2016 speaker list is not yet available, but see our <a href="https://docs.google.com/spreadsheets/d/1FuhNb9d81g2EfmZx-RW_3LcYnRvVIxZWA5f2msFL_9k/pubhtml?gid=19&single=true">2015 schedule</a> to learn about the kinds of events we'll feature.</p>
  </div></div>
 </div>
 
 <div class="container lifted" style="margin-bottom:20px;color:white;background-color:#2A3132">
 <div class="half"> <div class="padded"> <h3><i class="fa fa-users"></i>  Network</h3> </div>
 <div class="padded">
-<p>With headquarters for many of the world's largest corporations, the Twin Cities area is a global hub for analytics and data science. At Big Data Tech, you'll be able to: <ul><li>Meet your peers in analytics at other regional powerhouses</li><li>Meet vendor representatives and find out about their latest products</li><li>Be the first to hear about analytics job openings</li> </ul></p></div>
+<p>With headquarters for many of the world's largest corporations, the Twin Cities area is a global hub for analytics and data science. At Big Data Tech, you'll be able to: <ul><li>Meet your peers in analytics at other regional powerhouses</li><li>Meet vendor representatives and find out about their latest products</li><li>Be the first to hear about analytics job openings</li> </p></div>
 </div>
 <div class="half" style="background-image:url(farcon.jpg); height: 400px; background-size:cover"> </div>
 </div>
 
-<div class="container lifted" style="margin-bottom:20px;color:white;background-color:#336B87">
-<div class="half"><div class="padded">
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d90548.3801395601!2d-93.40108420276115!3d44.82896178352227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87f6249ae0b21e41%3A0x83b71420149caaf6!2sNormandale+Community+College!5e0!3m2!1sen!2sus!4v1457069366047" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe></div></div>
+<div class="container lifted" style="margin-bottom:20px;color:white;background-color:#2A3132">
+<div class="half padded">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d90548.3801395601!2d-93.40108420276115!3d44.82896178352227!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x87f6249ae0b21e41%3A0x83b71420149caaf6!2sNormandale+Community+College!5e0!3m2!1sen!2sus!4v1457069366047" width="100%" height="400px" frameborder="0" style="border:0" allowfullscreen></iframe></div>
 
 <div class="half"> <div class="padded"> <h3><i class="fa fa-map-marker"></i> Location</h3> 
-<p>The conference will be on June 7, 2016, at Normandale Community College's Partnership Center. </p>
-<p>Admission will be free for individuals (a fee will apply for recruiters). </p>
+<p>The conference will be on June 7, 2016, at Normandale Community College. </p>
 <p>Be sure to <a href="http://minneanalytics.org/join/">join the MinneAnalytics newsletter</a> for updates!</p>
 </div>
 </div>
 
-
 </div>
-
-<div class="bottomtext center"><div class="padding" style="margin-top:50px;margin-bottom:50px"><img src="Minne300.png"/><br>The Twin Cities Big Data, Data Science, and Analytics Community<br/>Conference co-chairs: <a href="https://www.linkedin.com/in/seanlarson">Sean Larson</a>, <a href="https://www.linkedin.com/in/johnhogue">John Hogue</a>, <a href="https://www.linkedin.com/in/dfeldman">Daniel Feldman</a></div></div>
 
 <div class="full slategray">
 Conference co-chairs: Sean Larson John Hogue Daniel Feldman
@@ -87,7 +82,7 @@ Conference co-chairs: Sean Larson John Hogue Daniel Feldman
 
 
     <footer class="black container padded">
-      <div class="fill"><div class="padding">(C) MinneAnalytics. Cover photo by Jeremiah Peterson, <a href="https://creativecommons.org/licenses/by-nc-nd/2.0/">CC-NC-ND</a></div></div>
+      <div class="fill"><p>Minneanalytics -- About</p></div>
     </footer>
    </body>
 </html>
