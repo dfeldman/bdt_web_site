@@ -15,6 +15,7 @@ tbody tr { border-bottom: 2px solid #f1f1f1;}
 thead th { font-weight:string; padding: 5px; vertical-align:bottom; text-align:left;}
 tbody th { font-weight:string; padding: 5px; vertical-align:top; text-align:left;}
 a { text-decoration: underline; color: white; white-space:nowrap}
+.nowrap { white-space:nowrap}
 .bottomtext a {color:black}
 p, li { font-family: 'Source Sans Pro', Helvetica, sans; font-size:14pt; margin-bottom: 0.5em; text-align:left}
 label, strong { font-weight: bold; }
